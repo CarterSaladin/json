@@ -1,0 +1,170 @@
+[
+    {
+        "title": "125 S",
+        "year": "1947",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_125_S",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_125_S#/media/File:Ferrari_125_S_-_Museo_Enzo_Ferrari.jpg",
+        "altText": "Ferrari 125 S",
+        "text": "Ferrari's first vehicle, featuring a 1.5-liter V12 engine, marking the brand's entry into automotive manufacturing"
+      },
+      {
+        "title": "250 GTO",
+        "year": "1962-1964",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_250_GTO",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_250_GTO#/media/File:1963_Ferrari_250_GTO_(chassis_4153GT)_2.95.jpg",
+        "altText": "Ferrari 250 GTO",
+        "text": "A legendary racing car with a 3.0-liter V12, celebrated for its performance and design; only 36 units were produced."
+      },
+      {
+        "title": "275 GTB/4",
+        "year": "1966-1968",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_275",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_275#/media/File:1966_Ferrari_275_GTB_sn_08549,_front_left_(Greenwich_2019).jpg",
+        "altText": "Ferrari 275 GTB/4",
+        "text": "A front-engined grand tourer with a 3.3-liter V12, known for its sleek design and improved handling."
+      },
+      {
+        "title": "365 GTB/4",
+        "year": "1968-1973",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_365",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_365#/media/File:Ferrari_365_GT_2_+_2_(2597740059).jpg",
+        "altText": "Ferrari 365 GTB/4",
+        "text": "A front-engined V12 grand tourer, renowned for its sharp styling and high-speed capabilities."
+      },
+      {
+        "title": "512 S",
+        "year": "1970",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_512",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_512#/media/File:1970_Ferrari_512_S.jpg",
+        "altText": "Ferrari 512 S",
+        "text": "A sports prototype race car with a 5.0-liter V12, developed to compete in the World Sportscar Championship."
+      },
+      {
+        "title": "308 GTB",
+        "year": "1975-1985",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_308_GTB/GTS",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_308_GTB/GTS#/media/File:Ferrari_308GTB_Lightweight_(1976)_-_14453314104.jpg",
+        "altText": "Ferrari 308 GTB",
+        "text": "A mid-engined V8 sports car, popularized by its appearance in the TV series 'Magnum, P.I.'"
+      },
+      {
+        "title": "F40",
+        "year": "1987-1992",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_F40",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_F40#/media/File:F40_Ferrari_20090509.jpg",
+        "altText": "Ferrari F40",
+        "text": "A twin-turbocharged V8 supercar, built to celebrate Ferrari's 40th anniversary, known for its raw performance."
+      }, 
+      {
+        "title": "333 SP",
+        "year": "1994",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_333_SP",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_333_SP#/media/File:Ferrari_333_SP_at_Goodwood_2014_002.jpg",
+        "altText": "Ferrari 333 SP",
+        "text": "A sports prototype race car with a 4.0-liter V12, marking Ferrari's return to sports car racing after a long hiatus."
+      },
+      {
+        "title": "550 Maranello",
+        "year": "1996-2991",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_550",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_550#/media/File:Paris_-_Bonhams_2016_-_Ferrari_550_Maranello_coup%C3%A9_-_1999_-_005.jpg",
+        "altText": "Ferrari 550 Maranello",
+        "text": "A front-engined V12 grand tourer, combining classic Ferrari design with modern performance."
+      },
+      {
+        "title": "Enzo",
+        "year": "2002-2004",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_Enzo",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_Enzo#/media/File:Orange_Enzo_Ferrari_(7191948164).jpg",
+        "altText": "Ferrari Enzo",
+        "text": " A limited-production supercar with a 6.0-liter V12, incorporating Formula 1 technology and named after the company's founder."
+      },
+      {
+        "title": "F430",
+        "year": "2004-2009",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_F430",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_F430#/media/File:2007_Ferrari_F430_F1_4.3_Front.jpg",
+        "altText": "Ferrari F430",
+        "text": "A mid-engined V8 sports car, featuring advancements in aerodynamics and performance over its predecessors."
+      },
+      {
+        "title": "458 Italia",
+        "year": "2009-2015",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_458",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_458#/media/File:2011_Ferrari_458_Italia_DCT_S-A_4.5_Front.jpg",
+        "altText": "Ferrari 458 Italia",
+        "text": "A mid-engined V8 sports car, acclaimed for its design, performance, and handling dynamics."
+      },
+      {
+        "title": "LaFerrari",
+        "year": "2013-2016",
+        "wikiLink": "https://en.wikipedia.org/wiki/LaFerrari",
+        "imageUrl": "https://en.wikipedia.org/wiki/LaFerrari#/media/File:LaFerrari_in_Beverly_Hills_(14563979888).jpg",
+        "altText": "Ferrari LaFerrari",
+        "text": "A hybrid hypercar with a 6.3-liter V12 and electric motor, representing Ferrari's leap into hybrid technology."
+      },
+      {
+        "title": "488 GTB",
+        "year": "2015-2019",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_488",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_488#/media/File:2017_Ferrari_488_GTB_Automatic_3.9.jpg",
+        "altText": "Ferrari 488 GTB",
+        "text": "A mid-engined V8 sports car, introducing turbocharging for improved performance and efficiency."
+      },
+      {
+        "title": "812 Superfast",
+        "year": "2017-2024",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_812_Superfast",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_812_Superfast#/media/File:2019_Ferrari_812_Superfast_S-A_6.5.jpg",
+        "altText": "Ferrari 812 Superfast",
+        "text": "A front-engined V12 grand tourer, delivering exceptional power and advanced aerodynamics."
+      },
+      {
+        "title": "SF90 Stradale",
+        "year": "2019-",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale#/media/File:Red_2019_Ferrari_SF90_Stradale_(48264238897)_(cropped).jpg",
+        "altText": "Ferrari SF90 Stradale",
+        "text": "A plug-in hybrid supercar with a twin-turbo V8 and three electric motors, showcasing Ferrari's innovative engineering."
+      },
+      {
+        "title": "Roma",
+        "year": "2020-",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_Roma",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_Roma#/media/File:2021_Ferrari_Roma_in_Rosso_Fiorano,_front_right.jpg",
+        "altText": "Ferrari Roma",
+        "text": "A front-engined V8 grand tourer, blending timeless design with contemporary performance."
+      },
+      {
+        "title": "296 GTB",
+        "year": "2022-",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_296",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_296#/media/File:2022_Ferrari_296_(cropped).jpg",
+        "altText": "Ferrari 296 GTB",
+        "text": "A mid-engined V6 plug-in hybrid sports car, marking Ferrari's return to V6 engines in road cars."
+      },
+      {
+        "title": "Daytona SP3",
+        "year": "2022-",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_Daytona_SP3",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_Daytona_SP3#/media/File:Ferrari_Daytona_SP3_front_side_at_CF_2022.jpg",
+        "altText": "Ferrari Daytona SP3",
+        "text": "A limited-production mid-engined V12 sports car, part of the Icona series, paying homage to Ferrari's racing heritage."
+      },
+      {
+        "title": "Purosangue",
+        "year": "2022-",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_Purosangue",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_Purosangue#/media/File:Ferrari_Purosangue_IMG_9554.jpg",
+        "altText": "Ferrari Purosangue",
+        "text": "Ferrari's first SUV, featuring a front mid-engined V12, combining performance with versatility."
+      },
+      {
+        "title": "12Cilindri",
+        "year": "2024-",
+        "wikiLink": "https://en.wikipedia.org/wiki/Ferrari_12Cilindri",
+        "imageUrl": "https://en.wikipedia.org/wiki/Ferrari_12Cilindri#/media/File:Ferrari_12Cilindri_at_Maranello.jpg",
+        "altText": "Ferrari 12Cilindri",
+        "text": "A front mid-engine grand tourer featuring a 6.5-liter V12 engine with modern aerodynamic enhancements and a luxurious, driver-focused interior."
+      }
+    ]
